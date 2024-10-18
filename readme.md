@@ -90,7 +90,7 @@ Here’s a step-by-step guide to properly using a **portable epinephrine auto-inje
 
 Proper use of the epinephrine auto-injector can save a life in cases of severe allergic reactions. Always follow up with medical professionals after use.
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
