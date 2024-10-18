@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Nsp Oec Training Chapter 14 - National Ski Patrol - Outdoor Emergency Care chapter 14
-National Ski Patrol - Outdoor Emergency Care chapter 14
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Nsp Oec Training Chapter 14 - National Ski Patrol - Outdoor Emergency Care chapter 14![Image image_filename](code.png)
 ## Chapter 14: Allergies & Anaphylaxis 
 
 1. List four routes by which an allergen may enter the body.
@@ -97,9 +90,7 @@ Here’s a step-by-step guide to properly using a **portable epinephrine auto-inje
 
 Proper use of the epinephrine auto-injector can save a life in cases of severe allergic reactions. Always follow up with medical professionals after use.
 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Nsp Oec Training Chapter 14** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -114,6 +105,9 @@ To get started with the **Nsp Oec Training Chapter 14** solution repository, fol
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -123,13 +117,11 @@ To get started with the **Nsp Oec Training Chapter 14** solution repository, fol
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](NSP_OEC_Training_Chapter_14.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
