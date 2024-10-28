@@ -62,17 +62,17 @@ The **signs and symptoms of an allergic reaction** can vary from mild to severe,
 ## 14.4 Demonstrate the steps for properly using portable epinephrine auto-injectors.
 
 
-Here’s a step-by-step guide to properly using a **portable epinephrine auto-injector** (e.g., EpiPen, Auvi-Q) in the event of a severe allergic reaction (anaphylaxis):
+Hereâ€™s a step-by-step guide to properly using a **portable epinephrine auto-injector** (e.g., EpiPen, Auvi-Q) in the event of a severe allergic reaction (anaphylaxis):
 
 ### **Steps to Use an Epinephrine Auto-Injector**:
 
 1. **Identify the Need**:
    - Recognize signs of anaphylaxis, such as difficulty breathing, swelling of the face or throat, or other severe allergic symptoms.
-   - If in doubt, use the epinephrine auto-injector. It’s better to use it early if anaphylaxis is suspected.
+   - If in doubt, use the epinephrine auto-injector. Itâ€™s better to use it early if anaphylaxis is suspected.
 
 2. **Prepare the Auto-Injector**:
    - Remove the **safety cap** or **safety release** from the device (varies depending on the brand).
-   - Hold the auto-injector firmly with your **dominant hand**. Make sure your hand is positioned according to the device’s instructions (e.g., thumb NOT over the top).
+   - Hold the auto-injector firmly with your **dominant hand**. Make sure your hand is positioned according to the deviceâ€™s instructions (e.g., thumb NOT over the top).
 
 3. **Position the Device**:
    - The injection is meant for the **outer thigh**. It can be administered through clothing if necessary.
@@ -80,7 +80,7 @@ Here’s a step-by-step guide to properly using a **portable epinephrine auto-inje
 
 4. **Administer the Injection**:
    - Press the auto-injector firmly into the thigh until you hear a **click** (this indicates the needle has deployed).
-   - Hold the auto-injector in place for **3 to 10 seconds** (depending on the device’s instructions) to ensure the full dose is delivered.
+   - Hold the auto-injector in place for **3 to 10 seconds** (depending on the deviceâ€™s instructions) to ensure the full dose is delivered.
 
 5. **Remove the Injector**:
    - After the injection is complete, remove the injector from the thigh and massage the injection site for a few seconds to help with medication absorption.
