@@ -62,17 +62,17 @@ The **signs and symptoms of an allergic reaction** can vary from mild to severe,
 ## 14.4 Demonstrate the steps for properly using portable epinephrine auto-injectors.
 
 
-Hereâ€™s a step-by-step guide to properly using a **portable epinephrine auto-injector** (e.g., EpiPen, Auvi-Q) in the event of a severe allergic reaction (anaphylaxis):
+Here’s a step-by-step guide to properly using a **portable epinephrine auto-injector** (e.g., EpiPen, Auvi-Q) in the event of a severe allergic reaction (anaphylaxis):
 
 ### **Steps to Use an Epinephrine Auto-Injector**:
 
 1. **Identify the Need**:
    - Recognize signs of anaphylaxis, such as difficulty breathing, swelling of the face or throat, or other severe allergic symptoms.
-   - If in doubt, use the epinephrine auto-injector. Itâ€™s better to use it early if anaphylaxis is suspected.
+   - If in doubt, use the epinephrine auto-injector. It’s better to use it early if anaphylaxis is suspected.
 
 2. **Prepare the Auto-Injector**:
    - Remove the **safety cap** or **safety release** from the device (varies depending on the brand).
-   - Hold the auto-injector firmly with your **dominant hand**. Make sure your hand is positioned according to the deviceâ€™s instructions (e.g., thumb NOT over the top).
+   - Hold the auto-injector firmly with your **dominant hand**. Make sure your hand is positioned according to the device’s instructions (e.g., thumb NOT over the top).
 
 3. **Position the Device**:
    - The injection is meant for the **outer thigh**. It can be administered through clothing if necessary.
@@ -80,7 +80,7 @@ Hereâ€™s a step-by-step guide to properly using a **portable epinephrine auto-in
 
 4. **Administer the Injection**:
    - Press the auto-injector firmly into the thigh until you hear a **click** (this indicates the needle has deployed).
-   - Hold the auto-injector in place for **3 to 10 seconds** (depending on the deviceâ€™s instructions) to ensure the full dose is delivered.
+   - Hold the auto-injector in place for **3 to 10 seconds** (depending on the device’s instructions) to ensure the full dose is delivered.
 
 5. **Remove the Injector**:
    - After the injection is complete, remove the injector from the thigh and massage the injection site for a few seconds to help with medication absorption.
@@ -105,24 +105,4 @@ Proper use of the epinephrine auto-injector can save a life in cases of severe a
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 14** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](NSP_OEC_Training_Chapter_14.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
